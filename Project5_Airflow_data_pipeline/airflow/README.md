@@ -68,6 +68,7 @@ FACT table works with dimension tables:
 > SONG_PLAYS: songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 
 ![Sparktify database](https://drive.google.com/file/d/1X9JOHZ-MOsE9hWirvlMnfC9_ovpB_G7r/view?usp=sharing)
+![Sparktify Star Schema](https://github.com/yfocusy/DataEngineering-Udacity-Nanodegree/blob/master/Project5_Airflow_data_pipeline/airflow/Star%20Schema.png?raw=true)
 
 * Database design Image link (if the image doesn't show up) : https://drive.google.com/file/d/1X9JOHZ-MOsE9hWirvlMnfC9_ovpB_G7r/view?usp=sharing
 
